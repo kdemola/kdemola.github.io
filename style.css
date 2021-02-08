@@ -1,4 +1,4 @@
 
         
 body {background-color: #00FA9A;}
-#aboutme {background-image:<img src="mybackground.jpg">;}
+#aboutme {background-image:url(mybackground.jpg);}
